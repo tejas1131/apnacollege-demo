@@ -1,4 +1,4 @@
 # apnacollege-demo
 My Practice
 <br>
-Authon -- Tejas Chavan
+Authon -- Tejas (Apna College)
